@@ -6,7 +6,7 @@ The goal is to practice fundamental OOP concepts such as encapsulation, inherita
 
 ## 📚 Topics Covered
 
-- ✅ Triangle area calculation using classes
+- ✅ Classes, Methods, Attributes (Fields/Properties), Static Methods
 
 ## 📁 Folder Structure
 
