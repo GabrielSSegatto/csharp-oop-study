@@ -11,3 +11,7 @@ The goal is to practice fundamental OOP concepts such as encapsulation, inherita
 ## 📁 Folder Structure
 
 Each folder contains a self-contained example or exercise:
+
+## Projects
+
+- [Triangle area](./triangulo-area/)
