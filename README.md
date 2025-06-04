@@ -4,15 +4,14 @@ This repository contains exercises and small projects made during my studies of 
 
 The goal is to practice fundamental OOP concepts such as encapsulation, inheritance, polymorphism, abstraction, and class structure using practical examples.
 
-## 📚 Topics Covered
+## 📚 Topics Covered and projects
 
-- ✅ Classes, Methods, Attributes (Fields/Properties), Static Methods
+- ✅ Classes, Methods, Attributes (Fields/Properties), Static Methods:
+  - [Triangle area](./triangulo-area/)
+  - [Basic stock](./basic-stock/)
+  - [rectangle-area](./rectangle-area/)
+  - [employess basic salary manager](./employees/)
 
 ## 📁 Folder Structure
 
 Each folder contains a self-contained example or exercise:
-
-## Projects
-
-- [Triangle area](./triangulo-area/)
-- [Basic stock](./basic-stock/)
