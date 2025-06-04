@@ -15,3 +15,4 @@ Each folder contains a self-contained example or exercise:
 ## Projects
 
 - [Triangle area](./triangulo-area/)
+- [Basic stock](./basic-stock/)
