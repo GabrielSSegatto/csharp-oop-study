@@ -6,11 +6,17 @@ The goal is to practice fundamental OOP concepts such as encapsulation, inherita
 
 ## 📚 Topics Covered and projects
 
-- ✅ Classes, Methods, Attributes (Fields/Properties), Static Methods:
+✅ Classes, Methods, Attributes (Fields/Properties), Static Methods:
   - [Triangle area](./triangulo-area/)
   - [Basic stock](./basic-stock/)
   - [rectangle-area](./rectangle-area/)
   - [employess basic salary manager](./employees/)
+  - [Currency_exchange](./currency_exchange/)
+  - [Grades manager](./grades-manager/)
+  
+✅ Constructors, "this", Overloading, Encapsulation:
+  - for soon
+    
 
 ## 📁 Folder Structure
 
