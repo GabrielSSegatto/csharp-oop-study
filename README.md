@@ -1,23 +1,37 @@
-# C# OOP Study
+# 🧠 C# Object-Oriented Programming (OOP) Practice Projects
 
-This repository contains exercises and small projects made during my studies of Object-Oriented Programming (OOP) using C#.
+This repository contains a collection of small projects and exercises developed during my studies of Object-Oriented Programming (OOP) with C#.  
+The main goal is to reinforce core OOP principles through hands-on practice.
 
-The goal is to practice fundamental OOP concepts such as encapsulation, inheritance, polymorphism, abstraction, and class structure using practical examples.
+---
 
-## 📚 Topics Covered and projects
+## 📚 Topics Covered
 
-✅ Classes, Methods, Attributes (Fields/Properties), Static Methods:
-  - [Triangle area](./triangulo-area/)
-  - [Basic stock](./basic-stock/)
-  - [rectangle-area](./rectangle-area/)
-  - [employess basic salary manager](./employees/)
-  - [Currency_exchange](./currency_exchange/)
-  - [Grades manager](./grades-manager/)
-  
-✅ Constructors, "this", Overloading, Encapsulation:
-  - for soon
-    
+### ✅ Classes, Methods, Properties, Static Members
+- [Triangle Area Calculator](./triangulo-area/)
+- [Basic Stock Manager](./basic-stock/)
+- [Rectangle Area Calculator](./rectangle-area/)
+- [Employee Salary Manager](./employees/)
+- [Currency Converter](./currency_exchange/)
+- [Grade Manager](./grades-manager/)
+
+### ✅ Constructors, `this`, Overloading, Encapsulation
+- [Banking System](./bank/) — A basic simulation of bank operations using OOP principles.
+
+---
 
 ## 📁 Folder Structure
 
-Each folder contains a self-contained example or exercise:
+Each folder contains a complete, self-contained C# console application.
+
+---
+
+## ▶️ How to Run
+
+To run any project:
+
+```bash
+cd project-folder-name
+dotnet run
+```
+Make sure you have the .NET SDK installed.
