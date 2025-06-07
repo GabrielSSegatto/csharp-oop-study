@@ -5,6 +5,16 @@ The main goal is to reinforce core OOP principles through hands-on practice.
 
 ---
 
+## Note
+
+This repository tracks my progress through a C# course. The exercises are organized by module and follow the concepts as they are introduced.
+
+➡️ Features like **exception handling**, **encapsulation**, **inheritance**, and others will only be implemented in the modules where these topics are covered.
+
+⚠️ Therefore, some earlier exercises may not include best practices that I already know, but I chose to stick to the course's didactic sequence. The goal is to build up knowledge step by step until the final project.
+
+---
+
 ## 📚 Topics Covered
 
 ### ✅ Classes, Methods, Properties, Static Members
