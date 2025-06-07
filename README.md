@@ -26,7 +26,10 @@ This repository tracks my progress through a C# course. The exercises are organi
 - [Grade Manager](./grades-manager/)
 
 ### ✅ Constructors, `this`, Overloading, Encapsulation
-- [Banking System](./bank/) — A basic simulation of bank operations using OOP principles.
+- [Banking System](./bank/) 
+
+### ✅ Memory behavior, arrays, and lists
+- [Rooms](./rooms/) 
 
 ---
 
