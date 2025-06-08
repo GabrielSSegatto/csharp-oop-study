@@ -80,4 +80,5 @@ foreach (string nome in Nomes)
     Console.WriteLine(nome);
 }
 
-Nomes.RemoveRange(2, 2); //Apartir da posição 2, remove 2 elementos
+//Nomes.RemoveRange(2, 2);
+//Apartir da posição 2, remove 2 elementos, está comentado pq não existe mais nenhum elemento na segunda posição dessa lista 
