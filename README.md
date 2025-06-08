@@ -30,7 +30,8 @@ This repository tracks my progress through a C# course. The exercises are organi
 
 ### ✅ Memory behavior, arrays, and lists
 - [Rooms](./rooms/)
-- [Lists Comands](./list-operations/) 
+- [Lists Comands](./list-operations/)
+- [Employes Salary](./employes-slary/)
 
 ---
 
