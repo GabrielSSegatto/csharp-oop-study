@@ -29,7 +29,8 @@ This repository tracks my progress through a C# course. The exercises are organi
 - [Banking System](./bank/) 
 
 ### ✅ Memory behavior, arrays, and lists
-- [Rooms](./rooms/) 
+- [Rooms](./rooms/)
+- [Lists Comands](./list-operations/) 
 
 ---
 
