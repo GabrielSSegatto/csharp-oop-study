@@ -32,6 +32,7 @@ This repository tracks my progress through a C# course. The exercises are organi
 - [Rooms](./rooms/)
 - [Lists Comands](./list-operations/)
 - [Employes Salary](./employes-slary/)
+- [Matrix Neighbor Finder](./matrix-positon/)
 
 ---
 
