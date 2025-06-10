@@ -30,10 +30,12 @@ This repository tracks my progress through a C# course. The exercises are organi
 
 ### ✅ Memory behavior, arrays, and lists
 - [Rooms](./rooms/)
-- [Lists Comands](./list-operations/)
 - [Employes Salary](./employes-slary/)
 - [Matrix Neighbor Finder](./matrix-positon/)
 
+### ✅ Special 
+- [Lists Comands](./list-operations/)
+- [String methods](./string/)
 ---
 
 ## 📁 Folder Structure
