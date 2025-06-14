@@ -40,6 +40,7 @@ This repository tracks my progress through a C# course. The exercises are organi
 ### ✅ Classes, Enums and Composition 
 - [Worker Contract Manager](./worker_contracts/)
 - [Posts and comments](./posts_and_comment/)
+- [Orders system](./orders/)
 ---
 ## 📁 Folder Structure
 
