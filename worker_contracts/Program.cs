@@ -42,3 +42,4 @@ int year = int.Parse(monthAndYear.Substring(3, 4));
 Console.WriteLine($"Name: {worker.Name}");
 Console.WriteLine($"Department: {worker.Department.Name}");
 Console.WriteLine($"Income for {monthAndYear}: {worker.Income(year, month):F2}");
+
