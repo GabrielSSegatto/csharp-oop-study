@@ -36,8 +36,10 @@ This repository tracks my progress through a C# course. The exercises are organi
 ### ✅ Special 
 - [Lists Comands](./list-operations/)
 - [String methods](./string/)
----
 
+### ✅ Classes, Enums and Composition 
+- [Worker Contract Manager](./worker_contracts/)
+---
 ## 📁 Folder Structure
 
 Each folder contains a complete, self-contained C# console application.
