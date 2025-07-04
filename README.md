@@ -41,6 +41,10 @@ This repository tracks my progress through a C# course. The exercises are organi
 - [Worker Contract Manager](./worker_contracts/)
 - [Posts and comments](./posts_and_comment/)
 - [Orders system](./orders/)
+
+### ✅ Inheritance and Polymorphism
+- [Accounts](./Accounts/)
+
 ---
 ## 📁 Folder Structure
 
