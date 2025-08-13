@@ -44,6 +44,8 @@ This repository tracks my progress through a C# course. The exercises are organi
 
 ### ✅ Inheritance and Polymorphism
 - [Accounts](./Accounts/)
+- [Products](./Products/)
+- [Enterprise](./Enterprise/)
 
 ---
 ## 📁 Folder Structure
