@@ -46,6 +46,7 @@ This repository tracks my progress through a C# course. The exercises are organi
 - [Accounts](./Accounts/)
 - [Products](./Products/)
 - [Enterprise](./Enterprise/)
+- [Juridical and Natural person tax](./Tax/)
 
 ---
 ## 📁 Folder Structure
