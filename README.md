@@ -48,6 +48,10 @@ This repository tracks my progress through a C# course. The exercises are organi
 - [Enterprise](./Enterprise/)
 - [Juridical and Natural person tax](./Tax/)
 
+### ✅ error and exception handling
+- [Hotel Reservation](./ProcessFile/)
+- [Products](./Products/)
+
 ---
 ## 📁 Folder Structure
 
